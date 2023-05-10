@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #162521;
+    font-size: larger;
+}
+
+#title {
+    text-align: center;
+    color: #D3C0CD;
+}
+
+.recipes {
+    color: #9eefe5;
+}
+
+#fsw {
+    background-color: black;
+    color: yellow;
+    font-weight: bold;
+    accent-color: red;
+}
+
